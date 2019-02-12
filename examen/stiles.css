@@ -1,0 +1,17 @@
+body{
+  background: rgb(179, 242, 122);
+  font-size: 125%;
+}
+th{
+  color: rgb(15, 111, 53);
+  text-shadow: 2px 0 0 #0af113, -2px 0 0 #0af113, 0 2px 0 #0af113, 0 -2px 0 #0af113, 1px 1px #0af113, -1px -1px 0 #0af113, 1px -1px 0 #0af113, -1px 1px 0 #0af113;
+}
+td{
+  border-color: white;
+}
+a {
+  color: rgb(242, 0, 153);
+}
+strong{
+  color: purple;
+}
